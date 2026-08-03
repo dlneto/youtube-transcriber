@@ -1,0 +1,30 @@
+# Variáveis de ambiente e segredos
+.env
+.env.*
+
+# Ambiente virtual Python
+venv/
+.venv/
+env/
+
+# Arquivos temporários e saídas geradas
+temp/
+transcripts/
+
+# Áudios, vídeos e arquivos grandes
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.webm
+
+# Cache e arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ferramentas e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
